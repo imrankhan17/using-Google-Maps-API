@@ -4,3 +4,5 @@ Simple function that returns straight line distance between two locations along 
 Later, use a small portion of NYC taxicab data to calculate the distance between two locations acording to Google and comparing that to the data that was recorded.
 
 Data available here: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
+More info
